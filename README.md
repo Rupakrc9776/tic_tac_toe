@@ -1,4 +1,4 @@
-### Tic Tac Toe
+## Tic Tac Toe
 
 A simple two-player tic-tac-toe game you can open in a browser.
 
